@@ -2,7 +2,7 @@ Cas concret - Description fonctionnelle
 ---------------------------------------
 
 Introduction
-=============
+_______________
 L'application permet de visualiser, de gérer des données métiers, supportées par des données de référence cartographique et de restituer ces données sous forme de tableau...  
 L'application est constituée :
 - d'une interface cartographique, 
