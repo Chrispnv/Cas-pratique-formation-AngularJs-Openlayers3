@@ -1,15 +1,16 @@
 Cas concret - Description fonctionnelle
----------------------------------------
+________________________________________
 
 Introduction
-_______________
+--------------
 L'application permet de visualiser, de gérer des données métiers, supportées par des données de référence cartographique et de restituer ces données sous forme de tableau...  
 L'application est constituée :
 - d'une interface cartographique, 
 - d'une légende dynamique contenant les données de référence et métier,
 - de menus de recherche, de gestion de données (saisie, modificatio et suppression) et de reporting.
 
-### Fonctionnalités
+Fonctionnalités
+---------------
 #### Authentification et autorisation d'accès
 L'application est accessible en s'identifiant par login/pass. 
 Question : est ce la partie serveur (Symfony2) qui gère cela ou est ce la partie client  (AngularJs) ?
