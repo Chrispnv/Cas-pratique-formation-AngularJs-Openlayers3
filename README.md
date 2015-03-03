@@ -54,4 +54,11 @@ Fonctions de saisie, de modification et de suppression de données métier (obje
   - géographiquement et attributairement mixé,
   - ? à voir si pertinent de lancer une requête sur les différentes données métiers ou sur qu'une seule à la fois ?
 - Résultats de la requête prennent les comportements graphiques des données présentes dans la légende (transparence, changement aspect graphique...),
+- Fonctions de gestion (modification, suppression) des données métier à partir du résultats de la requête, 
 - ? à voir possibilité d'enregistrer les requêtes ?
+
+#### Restitution & export
+- Restitution de données ou de resultats de requête sous forme d'information statistiques,
+- Export de données ou de resultats de requête avec choix des champs à exporter :
+  - Fichier plat (csv, xls, txt ...),
+  - Couche géographique (shp, gpx, kml...).
