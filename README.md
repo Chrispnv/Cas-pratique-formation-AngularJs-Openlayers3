@@ -37,3 +37,21 @@ Fonctions de saisie, de modification et de suppression de données métier (obje
   - Fonction permettant d'accéder au formulaire d'un objet rempli avec ses données attributaires pour les modifier :
     - En cliquant sur l'objet dans la carte,
     - En sélectionnant l'objet dans un tableau de résultats.
+- Suppression
+  - Fonction permettant de supprimer un ou plusieurs objets métiers sur la carte avec une sélection ponctuelle ou avec un polygone,
+  - Fonction permettant de supprimer un ou plusieurs objets depuis un tableau de résultats.
+- Formulaire
+  - Fonctions dynamiques du formulaire : 
+    - Visibilité champs dépendants remplissage d'autres champs,
+    - Valeurs champs dépendants remplissage d'autres champs,
+    - Saisie semi-automatique dans les listes déroulantes.
+
+#### Recherche sur les données
+- Interface de requétage sur les données métiers (affichage du même type que la légende),
+- Possibilité de requêter :
+  - que géographiquement sur les données métiers (point, polygones, voire zone tampon...),
+  - qu'attributairement sur les données métiers,
+  - géographiquement et attributairement mixé,
+  - ? à voir si pertinent de lancer une requête sur les différentes données métiers ou sur qu'une seule à la fois ?
+- Résultats de la requête prennent les comportements graphiques des données présentes dans la légende (transparence, changement aspect graphique...),
+- ? à voir possibilité d'enregistrer les requêtes ?
