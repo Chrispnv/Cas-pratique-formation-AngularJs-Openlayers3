@@ -9,6 +9,9 @@ L'application est constituée :
 - de menus de recherche, de gestion de données (saisie, modificatio et suppression) et de reporting.
 
 ### Fonctionnalités
+#### Authentification et autorisation d'accès
+L'application est accessible en s'identifiant par login/pass. 
+Question : est ce la partie serveur (Symfony2) qui gère cela ou est ce la partie client  (AngularJs) ?
 #### Interface cartographique
 - Le fond de référence cartographique est basée sur l'API Géoportail par défaut et sur des fonds plus spécifiques au territoire (MNT...).
 - On retrouve toutes les fonctionnalités classiques de zoom, de centrage...
