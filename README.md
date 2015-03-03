@@ -24,4 +24,16 @@ L'application est constituée :
 - Affichage des données vectorielles métier
   - Fonction visibilité/non visibilité,
   - Fonction transparence,
-  - Fonction de modification graphique (couleur, grosseur objets).
+  - Fonction de modification graphique (couleur, grosseur objets),
+  - Affichage tableau données attributaires accompagnant les données métier.
+
+#### Gestion des données
+Fonctions de saisie, de modification et de suppression de données métier (objets géographiques et données attributaires). C'est à dire :
+- Saisie 
+  - Saisie d'un objet géographique sur la carte avec ouverture d'un formulaire pour la saisie des données attributaires, avec suppression de l'objet géographique si le formulaire est fermé sans soumission,
+  - Selon la donnée métier, saisie d'un point ou d'une ligne.
+- Modification
+  - Fonction permettant de déplacer un objet géographique métier sur la carte
+  - Fonction permettant d'accéder au formulaire d'un objet rempli avec ses données attributaires pour les modifier :
+    - En cliquant sur l'objet dans la carte,
+    - En sélectionnant l'objet dans un tableau de résultats.
