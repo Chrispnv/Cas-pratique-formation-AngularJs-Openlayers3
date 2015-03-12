@@ -45,7 +45,7 @@ Fonctions de saisie, de modification et de suppression de données métier (obje
 - Suppression
   - Fonction permettant de supprimer un ou plusieurs objets métiers sur la carte avec une sélection ponctuelle ou avec un polygone,
   - Fonction permettant de supprimer un ou plusieurs objets depuis un tableau de résultats.
-- Formulaire : au clic sur la carte, le formulaire apparait dans une nouvelle fenêtre ou un bloc se déplie dans l'interface.
+- Formulaire : au clic sur la carte, le formulaire apparait dans une nouvelle fenêtre ou dans un bloc qui se déplie dans l'interface ou autre chose.
   - Fonctions dynamiques du formulaire : 
     - Visibilité champs dépendants remplissage d'autres champs,
     - Valeurs champs dépendants remplissage d'autres champs,
